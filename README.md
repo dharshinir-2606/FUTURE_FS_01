@@ -8,7 +8,7 @@ This is my Task 1 submission for the Full Stack Web Development Internship at Fu
 - JavaScript
 
 ## Live Demo
-(https://dharshinir-2606.github.io/FUTURE_FS_01/)
+https://dharshinir-2606.github.io/FUTURE_FS_01/
 
 ## Author
 DHARSHINI R
